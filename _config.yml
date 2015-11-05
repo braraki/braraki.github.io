@@ -21,3 +21,5 @@ markdown: redcarpet
 
 redcarpet:
     extensions: ["no_intra_emphasis", "fenced_code_blocks", "tables", "autolink", "strikethrough", "with_toc_data"]
+
+highlighter: pygments

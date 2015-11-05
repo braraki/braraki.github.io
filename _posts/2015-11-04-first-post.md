@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post"
-date:   2015-11-04
+date:   2015-11-04 -0500
 categories: test
 ---
 I'm just checking out how to make posts right now.
