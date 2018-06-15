@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nevada's Basin and Range Formation"
-date:   2018-06-18 23:09:41 -0500
+date:   2018-06-14 23:09:41 -0500
 categories: geology reading
 ---
 
