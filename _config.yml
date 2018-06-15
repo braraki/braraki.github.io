@@ -30,4 +30,4 @@ enforce_ssl: braraki.github.io
 
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
