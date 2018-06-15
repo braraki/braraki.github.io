@@ -7,17 +7,27 @@
 
 # Site settings
 title: Brandon's Website
-email: araki at mit dot edu
+tagline: hopefully a control theory blog
 description: > # this means to ignore newlines until "baseurl:"
   My personal website. I plan on publishing my notes on control theory
   and related topics here.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://braraki.github.io" # the base hostname & protocol for your site
-#twitter_username: Idontusetwitter
-github_username:  braraki
+url: "https://braraki.github.io"
+
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+#About/contact:
+author:
+  name: Brandon Araki
+  email: araki at mit dot edu
+  baseurl: "" # the subpath of your site, e.g. /blog
+  github_username:  braraki
 
 # Build settings
 timezone: America/New_York
+enforce_ssl: braraki.github.io
 
 markdown: redcarpet
 

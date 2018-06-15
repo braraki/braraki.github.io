@@ -22,4 +22,36 @@ Yeah... that's it pretty much actually. I just need to play around with these th
 |even|make|tables|
 (not very well though)
 
+I also added MathJax so let's see if these equations work:
+
+$$a^2 + b^2 = c^2$$
+
+Here's matrix multiplication:
+
+\begin{align}
+	\begin{pmatrix} 
+		1 & 0 \\\ 
+		0 & e^{i\pi} \\\ \tag{2.2}
+	\end{pmatrix}
+	\begin{pmatrix}
+	  u \\\ v
+	\end{pmatrix}
+	&=
+	\begin{pmatrix}
+	  u \\\ -v
+	\end{pmatrix} \\\ 
+	\large\equiv \\\   
+	\begin{bmatrix}
+		1 & 0 \\\
+		0 & -1 \\\
+	\end{bmatrix}
+	\begin{bmatrix}
+		x \\\ y
+	\end{bmatrix}
+	&= 
+	\begin{bmatrix}
+		x \\\ -y
+	\end{bmatrix}
+\end{align}
+
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
