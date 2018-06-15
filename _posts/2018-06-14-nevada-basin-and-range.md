@@ -15,4 +15,4 @@ Adding further intrigue is the fact that this is part of the islandification of 
 
 Bonus Fact: The thin crust of Nevada allowed lots of hot water from the crust to boil up to the surface. It turns out that the process by which most heavier elements are transported to the surface of the earth is by dissolving into hot water and then being carried by the water to the surface. As the water cools and evaporates it deposits the heavy elements into the surface rock. In the Basin and Range Province, this resulted in huge numbers of 'supergene enrichments' of silver (as well as other metals), making that region one of the richest sources of silver in the world.
 
-Image credit: [](https://fineartamerica.com/featured/nevada-state-usa-3d-render-topographic-map-border-frank-ramspott.html)
+Image credit: [fineartamerica.com](https://fineartamerica.com/featured/nevada-state-usa-3d-render-topographic-map-border-frank-ramspott.html)
