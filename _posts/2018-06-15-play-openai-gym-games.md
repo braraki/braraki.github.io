@@ -5,7 +5,7 @@ date:   2018-06-15 22:53:00 -0500
 categories: research
 ---
 
-OpenAI Gym has a ton of well-done simulated environments that are super useful for testing reinforcement learning algorithms. To use them, you pretty much just have to import gym and do
+OpenAI Gym has a ton of simulated environments that are great for testing reinforcement learning algorithms. Using them is extremely simple:
 
 {% highlight ruby %}
 import gym
@@ -13,8 +13,6 @@ env = gym.make("Pong-v4")
 action = env.action_space.sample()
 observation, reward, done, info = env.step(action)
 {% endhighlight %}
-
-to start getting simulation data.
 
 But what if you want to play the games yourself? I searched online for places to play the Atari 2600 versions of Pong, Breakout, and other games, and it was actually very hard to find free online versions of specifically the Atari 2600 games. It might be possible to download and emulator and play using that, but fortunately OpenAI Gym has a built-in function that makes playing the games pretty easy.
 
