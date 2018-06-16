@@ -14,3 +14,5 @@ So, I checked out the Longwood area today. Unfortunately, it's kind of far away,
 The Longwood area doesn't look like that at all though. It's mostly just lots of big blocky buildings on streets with surprisingly spacious sidewalks. There are a ton of colleges and hospitals packed into the area, including HMS, Simmons College, Emmanuel College, Beth Israel, Boston Children's Hospital, and Brigham and Women's Hospital. It's crazy how they're all packed right next to each other. Looking at the map now, one thing I notice I missed was the Wyss Institute. Since I worked at the Wyss Institute by the Harvard College campus, I wish I could have checked that area out. Maybe next time!
 
 ![HMS Run]({{ "/assets/hms_run_6_16_18.png" | absolute_url }})
+
+I also ran through a lot of Fenway. It's really nice in the summer. I think that might long run will be around Fenway.
