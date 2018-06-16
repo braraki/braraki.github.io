@@ -10,9 +10,13 @@ OpenAI Gym has a ton of simulated environments that are great for testing reinfo
 {% highlight ruby %}
 import gym
 env = gym.make("Pong-v4")
-action = env.action_space.sample()
-observation, reward, done, info = env.step(action)
+for _ in range(1000):
+    env.render()
+    action = env.action_space.sample() # take a random action
+    observation, reward, done, info = env.step(action)
 {% endhighlight %}
+
+So 6 lines of code will get you a visualized playthrough of a simulated environment (using random actions), as well as all of the info you would need as input to an RL algorithm (in the form of "observation, reward, done, info").
 
 But what if you want to play the games yourself? I searched online for places to play the Atari 2600 versions of Pong, Breakout, and other games, and it was actually very hard to find free online versions of specifically the Atari 2600 games. It might be possible to download an emulator and play using that, but fortunately OpenAI Gym has a built-in function that makes playing the games pretty easy.
 
