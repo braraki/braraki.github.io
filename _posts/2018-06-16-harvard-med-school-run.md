@@ -15,4 +15,4 @@ The Longwood area doesn't look like that at all though. It's mostly just lots of
 
 ![HMS Run]({{ "/assets/hms_run_6_16_18.png" | absolute_url }})
 
-I also ran through a lot of Fenway. It's really nice in the summer. I think that might long run will be around Fenway.
+I also ran through a lot of Fenway. It's really nice in the summer. I think that my next long run will be around Fenway.
