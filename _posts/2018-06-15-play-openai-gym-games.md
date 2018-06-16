@@ -34,7 +34,7 @@ The linked code goes a little more in-depth on how to use the play function.
 Just a few notes:
 
 - I would recommend using the "NoFrameskip" versions of the games if you just want to play, because when there are frameskips it becomes very hard to play.
-- I recommend setting zoom=4 so that the game isn't tiny.
+- I recommend setting zoom=4 so that the game isn't tiny.g
 - You can play on any gym environment, including after you have put wrappers on the environment. This is a good way to test what your wrapped environment will look like to the RL algorithm you're training.
 - Pong is awful to play on OpenAI Gym... Most of the other games are fine, but Pong in particular is unplayable because the paddle moves a huge amount every time you press up or down.
 - The process will crash whenever you press an unallowed combination of buttons (such as left and right at the same time). They didn't put a lot of effort into implementing this.
