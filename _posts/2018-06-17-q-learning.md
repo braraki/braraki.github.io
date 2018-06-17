@@ -25,6 +25,6 @@ $$ \pi(a \vert s) = \textrm{Pr}(A_t = a \vert S_t = s)$$
 
 The goal of most of RL is to find the **optimal** policy $$\pi^*$$ that maximizes the expected reward
 
-$$ \sum_{t=0}^\infty \gamma^t \mathbb{E}_{\pi^*}[R_{a_t}(s_t, s_{t+1})] = \sum_{t=0}^\infty \gamma^t \sum_{a_t \in A} \pi^*(a_t \vert s) \times R(s_t, a_t, s_{t+1)$$
+$$ \sum_{t=0}^\infty \gamma^t \mathbb{E}_{\pi^*}[R_{a_t}(s_t, s_{t+1})] = \sum_{t=0}^\infty \gamma^t \sum_{a_t \in A} \pi^*(a_t \vert s) \times R(s_t, a_t, s_{t+1})$$
 
 
