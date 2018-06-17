@@ -9,6 +9,6 @@ Q-learning is one of the most common techniques for learning an optimal policy i
 
 Markov Decision Process
 
-To understand anything in RL, you need to know what a Markov Decision Process (MDP) is. MDPs are usually defined as a 5-tuple
+To understand anything in RL, you need to know what a Markov Decision Process (MDP) is. As you can see on Wikipedia or a billion academic papers, MDPs are usually defined as a 5-tuple $$ (S, A, R, T, \gamma) $$.
 
-$$ (S, A, R, T, \gamma) $$
+- $$S$$ is the set of states describing your environment. In a gridworld, for example, it would be the set of possible $$(x, y)$$ coordinates. In Atari, it would be the $$210 \times 160 \times 3$$ image space of the game.
