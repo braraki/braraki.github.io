@@ -20,6 +20,10 @@ To understand anything in RL, you need to know what a Markov Decision Process (M
 **Policy**
 
 If you are an agent on an MDP in a given state, you want to be able to make the best possible decision. An MDP policy is a function that, given a state, returns a distribution over the actions. This can be represented as 
+
 $$ \pi(a \vert s) = \textrm{Pr}(A_t = a \vert S_t = s)$$
+
 The goal of most of RL is to find the **optimal** policy $$\pi^*$$ that maximizes the expected reward
-$$ \sum_{t=0}^\inf \gamma^t \mathbb{E}_{\pi^*}[R_{a_t}(s_t, s_{t+1})]$$
+
+$$ \sum_{t=0}^\infty \gamma^t \mathbb{E}_{\pi^*}[R_{a_t}(s_t, s_{t+1})]$$
+
