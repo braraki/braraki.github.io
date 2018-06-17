@@ -11,4 +11,4 @@ Markov Decision Process
 
 To understand anything in RL, you need to know what a Markov Decision Process (MDP) is. MDPs are usually defined as a 5-tuple
 
-$ (S, A, R, T, \gamma) $
+$$ (S, A, R, T, \gamma) $$
