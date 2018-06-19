@@ -9,7 +9,7 @@ categories: reading review
 
 One of the most thought-provoking books I've read in the past few years is *The Rise and Fall of American Growth*, by Robert Gordon. I first heard about the book in The Economist, and I decided to read it because it sounded like the type of book that would give me historical perspective and teach me how today’s technology came to be. It clocks in at around 660 pages (not including notes/annotations), and it’s a pretty dense read. It was a long slog.
 
-The book was worth reading, but barely so. What stands out about the book? Gordon gives the reader an extremely thorough history of consumer technology in the United States from 1870 to the present. He really makes you appreciate how primitive the way of life in the late 1800s was, and he drives home the impact that technologies that we now take for granted made on our forebearers.
+The book was worth reading, but barely so. What stands out about the book? Gordon gives the reader an extremely thorough **history of consumer technology** in the United States from 1870 to the present. He really makes you appreciate how primitive the way of life in the late 1800s was, and he drives home the impact that technologies that we now take for granted made on our forebearers.
 
 > Much of the available descriptive literature on living conditions of 1870 portrays a dismal existence of week-long household drudgery for housewives and dangerous, backbreaking working conditions for husbands. Life was short, large families were crammed together in small living spaces, much food and clothing was home-produced, and such marketed goods as could be afforded were mainly raw food and dry goods—for example, fabrics for making clothes at home. (location 645)
 
