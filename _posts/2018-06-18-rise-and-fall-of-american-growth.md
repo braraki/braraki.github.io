@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Review of the Rise and Fall of American Growth"
-date:   2018-06-14 23:09:41 -0500
+date:   2018-06-18 23:20:00 -0500
 categories: reading review
 ---
 
