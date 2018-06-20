@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Review of the Rise and Fall of American Growth"
+title:  "Japanese vs Jewish History"
 date:   2018-06-19 23:56:00 -0500
 categories: reading review
 ---
 
-![Rise and Fall of American Growth]({{ "/assets/rise_and_fall_of_american_growth_cover.jpg" | absolute_url }})
+![Jewish Timeline]({{ "/assets/jewish_time_line.png" | absolute_url }})
+![Japanese Timeline]({{ "/assets/japanese_time_line.png" | absolute_url }})
 
-One of the most thought-provoking books I've read in the past few years is *The Rise and Fall of American Growth*, by Robert Gordon. I first heard about the book in The Economist, and I decided to read it because it sounded like the type of book that would give me historical perspective and teach me how today’s technology came to be. It clocks in at around 660 pages (not including notes/annotations), and it’s a pretty dense read. It was a long slog.
+I recently had the opportunity to visit Israel, and while I was there I also finished reading a book on Jewish history. One of the few other countries whose history I am somewhat familiar with is Japan, and as I thought about Jewish history I found myself marveling at how completely different these two cultures' stories are. On the one hand, you have Japan, with a nearly inviolate homeland and an unbroken imperial lineage reputedly almost 2700 years old. On the other you have Judaism/Jewish culture, which has an even longer history than Japan and which experienced an almost 2000 exile from its homeland.
