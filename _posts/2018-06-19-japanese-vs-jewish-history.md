@@ -13,7 +13,7 @@ I recently had the opportunity to visit Israel, and while I was there I also fin
 |       | Jewish/Israeli culture | Japanese culture |
 |-------|--------|---------|
 | Language | 22 characters | 3 alphabets, including >2k kanji |
-| Imperial Lineage | House of David, 22 rulers | Yamato Dynasty, 125 rulers |
+| Imperial Lineage | House of David, 22 rulers | Yamato Dynasty, 125 emperors (would be an overstatement to call them all rulers) |
 | Years spent under foreign rule | 2431 years | 7 years |
 | Religiosity | Religious | Spiritual |
 | How they treat people | Honestly pretty rude and pushy | Overbearingly polite and formal |
