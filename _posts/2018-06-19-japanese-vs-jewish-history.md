@@ -15,7 +15,7 @@ I recently had the opportunity to visit Israel, and while I was there I also fin
 | Language | 22 characters | 3 alphabets, including >2k kanji |
 | Imperial Lineage | House of David, 22 rulers | Yamato Dynasty, 125 emperors (would be an overstatement to call them all rulers) |
 | Years spent under foreign rule | 2431 years | 7 years |
-| Religiosity | Religious | Spiritual |
+| Religiosity | Religious; there is ONE god | Spiritual; pretty much no gods (I don't think anyone believes in the mythological ones?) |
 | How they treat people | Honestly pretty rude and pushy | Overbearingly polite and formal |
 | Natural disasters? | A little | A lot |
 | Geography | Once though to be center of the world | Once thought to be edge of the world |
