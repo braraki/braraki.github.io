@@ -13,7 +13,7 @@ So here's the stress-strain equation (where $$\mathcal{E}$$ is Young's modulus):
 
 $$ \sigma = - \mathcal{E} * e $$
 
-We can reformulate this as
+Given that $$ F = A\sigma $$ where $$A$$ is surface area and $$e = \delta_{l}/L$$, where $$L$$ is the length of the material and $$\delta_l$$ is the change in the length, we can reformulate the equation as
 
 $$ F = - A\mathcal{E}\Delta_{l}/L $$
 
