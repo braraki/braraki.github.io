@@ -17,12 +17,12 @@ We can reformulate this as
 
 $$ F = - A\mathcal{E}\Delta_{l}/L $$
 
-For simplicity's sake let's assume you somehome manage to occupy $$A = 1 m^2$$ of surface area, you weigh 100 kg, standard gravity is $$10 m/s^2$$, and the cliff is a granite cliff $$ L = 100 m $$ tall. The Young's modulus of granite is ~50 GPa. Therefore
+For simplicity's sake let's assume you somehow manage to occupy $$A = 1 m^2$$ of surface area, you weigh 100 kg, local gravity is $$10 m/s^2$$, and the cliff is a granite cliff $$ L = 100 m $$ tall. The Young's modulus of granite is ~50 GPa. Therefore
 
 $$ \Delta_{l} = - \frac{FL}{A\mathcal{E}} = - \frac{(100 kg)(10 m/s^2)(100 m)}{(1 m^2)(50 * 10^9 Pa)} = 2 \textrm{microns} $$
 
 For scale, a human hair is ~75 microns in diameter, a red blood cell is ~5 microns across, and many bacteria are ~2 microns across. Buttttt, how much spring energy is stored in the cliff?
 
-$$ PE = \frac{A\mathcal{E}}{2L} \Delta_{l}^2 = \frac{(1 m^2)(50 * 10^9 Pa)}{2(100 m)} (2 * 10^-6 m)^2 = 0.001 J$$
+$$ PE = \frac{A\mathcal{E}}{2L} \Delta_{l}^2 = \frac{(1 m^2)(50 * 10^9 Pa)}{2(100 m)} (2 * 10^{-6} m)^2 = 0.001 J$$
 
-Sooooooooo... if you weigh 100 kg and scaled a 100 m tall cliff, then that means there are ~100,000 J of PE to account for. The springiness of the cliff accounts for 0.001 J of those 100,000 J. So it turns out that, at human scales, the ground is a sucky spring, and I still can't explain where all of the potential energy goes!
+Sooooooooo... if you weigh 100 kg and scale a 100 m tall cliff, then that means there are ~100,000 J of PE to account for. The springiness of the cliff accounts for 0.001 J of those 100,000 J. So it turns out that, at human scales, the ground is a sucky spring, and the mystery of PE is still unexplained.
