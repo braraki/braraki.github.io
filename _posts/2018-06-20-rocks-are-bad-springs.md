@@ -11,7 +11,7 @@ Thinking about PE inevitably leads one to think about jumping off a cliff. For s
 
 So I looked into it, and it turns out that, at human scales, the ground is a sucky spring. I still haven't solved the mystery of potential energy.
 
-$$ \sigma = - \mathbb{E} * e $$
+$$ \sigma = - \mathcal{E} * e $$
 
 We can reformulate this as
 
