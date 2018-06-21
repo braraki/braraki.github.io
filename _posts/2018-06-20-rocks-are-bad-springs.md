@@ -26,3 +26,5 @@ For scale, a human hair is ~75 microns in diameter, a red blood cell is ~5 micro
 $$ PE = \frac{A\mathcal{E}}{2L} \Delta_{l}^2 = \frac{(1 m^2)(50 * 10^9 Pa)}{2(100 m)} (2 * 10^{-6} m)^2 = 0.001 J$$
 
 Sooooooooo... if you weigh 100 kg and scale a 100 m tall cliff, then that means there are ~100,000 J of PE to account for. The springiness of the cliff accounts for 0.001 J of those 100,000 J. So it turns out that, at human scales, the ground is a sucky spring, and the mystery of PE is still unexplained.
+
+Btw, I did these calculations on my Mac's calculator app, so they're not guaranteed to be accurate... I think they do capture the idea though that rocks are bad springs.
