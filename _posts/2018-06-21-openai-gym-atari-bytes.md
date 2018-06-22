@@ -18,7 +18,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 | 75 | 6 when player is blowing up, 0 or 1 otherwise |
 | 76 | 4 when pink saucer is on screen, 3 for a period <br> after shooting, 0 otherwise |
 | 78 | Y-coord of shot laser (increases as projectile <br> approaches top of screen), 0 when no laser <br> has been shot by the player |
-<br>
+
 
 **Montezuma's Revenge**
 
@@ -46,7 +46,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 | 92 | Possibly a countdown for hall monster |
 | 102 | Seems to be 2 when an item is picked up and 0 otherwise |
 | 17 | Maybe inventory (1 - room0, 2 - room1, 4 - room64, 8 - room4)
-<br>
+
 **Private Eye**
 
 | Byte [0, 127] | Description |
@@ -56,7 +56,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 | 67 | Minute counter |
 | 72 | Stage of game you are on? <br> 0 - game start <br> 1 - return gun <br> 2 - get the money after returning gun <br> 3 - return the money before getting gun <br> 4 - return the money after returning the gun <br> 4 - get the gun after returning the money <br> 7 - when you have Le Fiend after doing gun then money <br> 6 - get Le Fiend after doing money then gun <br> 9 - finish game by returning Le Fiend |
 | Either 60 or 5 | Inventory 24 - got money <br> 20 - got gun <br> 0 - nothing <br> 28 - got Le Fiend <br> (5 has flashing item while being dropped while 60 <br> is whether the item is held or not) |
-<br>
+
 **Pitfall!**
 
 | Byte [0, 127] | Description |
