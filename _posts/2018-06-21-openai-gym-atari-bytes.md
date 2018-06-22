@@ -12,7 +12,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 **Space Invaders**
 
 | Byte [0, 127] | Description |
-|-----------|--------|
+|-------:|--------|
 | 17 | Number of remaining aliens |
 | 73 | Number of remaining lives |
 | 75 | 6 when player is blowing up, 0 or 1 otherwise |
@@ -22,7 +22,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 **Montezuma's Revenge**
 
 | Byte [0, 127] | Description |
-|-----------|--------|
+|-------:|--------|
 | 58 | Number of remaining lives |
 | 65 | Inventory (represented as a bitstring) |
 |  3 | Number of current room |
