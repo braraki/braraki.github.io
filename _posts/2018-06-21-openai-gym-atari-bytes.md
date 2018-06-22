@@ -12,7 +12,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 **Space Invaders**
 
 | Byte [0, 127] | Description |
-|-------:|--------|
+|:-------:|--------|
 | 17 | Number of remaining aliens |
 | 73 | Number of remaining lives |
 | 75 | 6 when player is blowing up, 0 or 1 otherwise |
@@ -23,7 +23,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 **Montezuma's Revenge**
 
 | Byte [0, 127] | Description |
-|-------:|--------|
+|:-------:|--------|
 | 58 | Number of remaining lives |
 | 65 | Inventory (represented as a bitstring) |
 |  3 | Number of current room |
@@ -36,7 +36,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 **Venture**
 
 | Byte [0, 127] | Description |
-|-------|--------|
+|:-------:|--------|
 | 70 | Lives Remaining |
 | 26 | Y-coord of player (top = 1, bottom = 76) |
 | 85 | X-coord of player (left = 1) |
@@ -50,7 +50,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 **Private Eye**
 
 | Byte [0, 127] | Description |
-|-------|--------|
+|:-------:|--------|
 | 38 | Constant for screens with nothing moving, counts down for screens with flowerpots/bricks |
 | 92 | Room no. [0, 32] |
 | 67 | Minute counter |
@@ -60,7 +60,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 **Pitfall!**
 
 | Byte [0, 127] | Description |
-|-------|--------|
+|:-------:|--------|
 | 89 | Seconds countdown |
 |  1 | Room number? But no order? |
 | 100| Player state <br> 5 - stand <br> 43210 - walk <br> 0 - jump <br> 78 - ladder climbing <br> 6 - vine |
