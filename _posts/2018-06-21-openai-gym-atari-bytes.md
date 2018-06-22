@@ -51,11 +51,11 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 
 | Byte [0, 127] | Description |
 |:-------:|--------|
-| 38 | Constant for screens with nothing moving, counts down for screens with flowerpots/bricks |
+| 38 | Constant for screens with nothing moving, counts <br> down for screens with flowerpots/bricks |
 | 92 | Room no. [0, 32] |
 | 67 | Minute counter |
 | 72 | Stage of game you are on? <br> 0 - game start <br> 1 - return gun <br> 2 - get the money after returning gun <br> 3 - return the money before getting gun <br> 4 - return the money after returning the gun <br> 4 - get the gun after returning the money <br> 7 - when you have Le Fiend after doing gun then money <br> 6 - get Le Fiend after doing money then gun <br> 9 - finish game by returning Le Fiend |
-| Either 60 or 5 | Inventory 24 - got money <br> 20 - got gun <br> 0 - nothing <br> 28 - got Le Fiend <br> (5 has flashing item while being dropped while 60 is whether the item is held or not) |
+| Either 60 or 5 | Inventory 24 - got money <br> 20 - got gun <br> 0 - nothing <br> 28 - got Le Fiend <br> (5 has flashing item while being dropped while 60 <br> is whether the item is held or not) |
 
 **Pitfall!**
 
