@@ -7,7 +7,7 @@
 
 # Site settings
 title: Brandon's Website
-tagline: hopefully a control theory blog
+tagline: stuff I'm interested in
 description: > # this means to ignore newlines until "baseurl:"
   My personal website. I plan on posting anything that is interesting to me here.
 url: "https://braraki.github.io"
