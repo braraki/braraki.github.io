@@ -16,8 +16,8 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 | 17 | Number of remaining aliens |
 | 73 | Number of remaining lives |
 | 75 | 6 when player is blowing up, 0 or 1 otherwise |
-| 76 | 4 when pink saucer is on screen, 3 for a period after shooting, 0 otherwise |
-| 78 | Y-coord of shot laser (increases as projectile approaches top of screen), 0 when no laser has been shot by the player |
+| 76 | 4 when pink saucer is on screen, 3 for a period <br> after shooting, 0 otherwise |
+| 78 | Y-coord of shot laser (increases as projectile <br> approaches top of screen), 0 when no laser has been shot by the player |
 
 **Montezuma's Revenge**
 
@@ -26,8 +26,8 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 | 58 | Number of remaining lives |
 | 65 | Inventory (represented as a bitstring) |
 |  3 | Number of current room |
-| 66 | Bits 3 and 2 represent whether the left and right doors are locked, respectively (there are only up to 2 doors per room) |
-| 30 | Character sprite state (idle, in air, on ladder, on rope, dying, etc) |
+| 66 | Bits 3 and 2 represent whether the left and right <br> doors are locked, respectively (there are only up to 2 doors per room) |
+| 30 | Character sprite state (idle, in air, on ladder, <br> on rope, dying, etc) |
 
 
 (More information [available here](https://repositori.upf.edu/bitstream/handle/10230/30867/Garriga_2016.pdf?sequence=1&isAllowed=y))
