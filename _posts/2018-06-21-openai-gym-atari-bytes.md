@@ -40,7 +40,7 @@ The OpenAI Gym Atari environments can output two types of states - an image and/
 | 70 | Lives Remaining |
 | 26 | Y-coord of player (top = 1, bottom = 76) |
 | 85 | X-coord of player (left = 1) |
-| 188 | 251 in outer map, 247 in rooms? |
+| 118 | 251 in outer map, 247 in rooms? |
 | 19 | Room player is in (outer = 8, bottom left = 1, <br> bottom right = 0, top left = 64, top right = 2) |
 | 73 | 0 when arrow is in air, 128 when holding arrow, <br> also 0 when in outer map |
 | 92 | Possibly a countdown for hall monster |
