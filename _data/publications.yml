@@ -1,0 +1,15 @@
+papers:
+
+  - title: Deep Bayesian Nonparametric Learning of Rules and Plans from Demonstrations with a Learned Automaton Prior
+    url: https://kiranvodrahalli.github.io/research/publications/aaai20.pdf
+    date: February, 2020
+    authors: [Brandon Araki, Kiran Vodrahalli, Thomas Leech, Cristian Ioan Vasile, Mark Donahue, Daniela Rus.]
+    conference: AAAI Conference on Artificial Intelligence
+    type: Spotlight Presentation and Poster
+
+  - title: Learning to Plan with Logical Automata
+    url: https://kiranvodrahalli.github.io/research/publications/rss19.pdf
+    date: June 2019
+    authors: [Brandon Araki*, Kiran Vodrahalli*, Thomas Leech, Cristian Ioan Vasile, Mark Donahue, Daniela Rus.]
+    conference: "Robotics: Science and Systems"
+    type: Spotlight Presentation and Poster

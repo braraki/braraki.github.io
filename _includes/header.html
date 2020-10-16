@@ -14,13 +14,15 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
+        {% if site.data.theme.navigation %}
+          {% for link in site.data.theme.navigation %}
+            <a class="page-link" href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
+          {% endfor %}
+        {% endif %}
+      </div>     
     </nav>
+
+    <!-- code for the links comes from https://talk.jekyllrb.com/t/how-to-stop-pagenator-v2-generated-pages-from-appearing-in-nav-menu/1465 !-->
 
   </div>
 
