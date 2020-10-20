@@ -24,8 +24,8 @@
 # permalink:           pretty
 # relative_permalinks: true
 
-title: Brandon's Website
-email: araki at mit dot edu
+title: Brandon Araki
+email: araki at csail dot mit dot edu
 description: >- # this means to ignore newlines until "baseurl:"
   My personal and research website.
 url: "https://braraki.github.io"

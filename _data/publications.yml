@@ -1,15 +1,204 @@
+categories:
+  0: "Learning and Planning with Logic"
+  1: "Multi-Robot Localization and Planning"
+  2: "Autonomous Vehicles"
+  3: "Robot Design"
+  4: "Guiding the Blind"
+  5: "Manufacturing"
+
+# the 0 is so that liquid can count the instances
+# of each type
+types:
+  C: 0 # conference
+  J: 0 # journal
+  T: 0 # technical
+  P: 0 # preprint
+
 papers:
 
   - title: Deep Bayesian Nonparametric Learning of Rules and Plans from Demonstrations with a Learned Automaton Prior
-    url: https://kiranvodrahalli.github.io/research/publications/aaai20.pdf
-    date: February, 2020
-    authors: [Brandon Araki, Kiran Vodrahalli, Thomas Leech, Cristian Ioan Vasile, Mark Donahue, Daniela Rus.]
-    conference: AAAI Conference on Artificial Intelligence
-    type: Spotlight Presentation and Poster
+    date: February 2020
+    authors: [Brandon Araki, Kiran Vodrahalli, Thomas Leech, Cristian Ioan Vasile, Mark Donahue, Daniela Rus]
+    conference: AAAI Conference on Artificial Intelligence (AAAI)
+    presentation: Poster
+    category: 0
+    type: C
+    links:
+      pdf: publications/aaai20.pdf
+      supplement: publications/aaai20-supp.pdf
+      conference: https://aaai.org/Conferences/AAAI-20/
+      proceedings: https://aaai.org/ojs/index.php/AAAI/article/view/6559
+      poster: posters/aaai20-poster.pdf
+
+  - title: Range-based Cooperative Localization with Nonlinear Observability Analysis
+    date: October 2019
+    authors: [Brandon Araki, Igor Gilitschenski, Tatum Ogata, Alex Wallar, Wilko Schwarting, Zareen Choudhury, Sertac Karaman, Daniela Rus]
+    conference: Intelligent Transportation Systems Conference (ITSC)
+    presentation: Spotlight Presentation and Poster
+    category: 1
+    type: C
+    links:
+      pdf: publications/itsc19.pdf
+      conference: https://www.itsc2019.org/
+      slides: slides/itsc19-presentation.pdf
+
+  - title: Probabilistic risk metrics for navigating occluded intersections
+    date: October 2019
+    authors: [Stephen G McGill, Guy Rosman, Teddy Ort, Alyssa Pierson, Igor Gilitschenski, Brandon Araki, Luke Fletcher, Sertac Karaman, Daniela Rus, John J Leonard]
+    conference: "Robotics and Automation Letters (RAL)"
+    presentation: Journal
+    category: 2
+    type: J
+    links:
+      pdf: publications/ral19.pdf
+      journal: https://www.ieee-ras.org/publications/ra-l
+      video: https://www.youtube.com/watch?v=Nx9m6ps3yCI
 
   - title: Learning to Plan with Logical Automata
-    url: https://kiranvodrahalli.github.io/research/publications/rss19.pdf
     date: June 2019
-    authors: [Brandon Araki*, Kiran Vodrahalli*, Thomas Leech, Cristian Ioan Vasile, Mark Donahue, Daniela Rus.]
-    conference: "Robotics: Science and Systems"
-    type: Spotlight Presentation and Poster
+    authors: [Brandon Araki*, Kiran Vodrahalli*, Thomas Leech, Cristian Ioan Vasile, Mark Donahue, Daniela Rus]
+    conference: "Robotics: Science and Systems (RSS)"
+    presentation: Spotlight Presentation and Poster
+    category: 0
+    type: C
+    links:
+      pdf: publications/rss19.pdf
+      conference: http://rss2019.informatik.uni-freiburg.de/
+      proceedings: http://www.roboticsproceedings.org/rss15/p64.html
+      poster: posters/rss2019-poster.pdf
+
+  - title: "Variational autoencoder for end-to-end control of autonomous driving with novelty detection and training de-biasing"
+    date: October 2018
+    authors: [Alexander Amini, Wilko Schwarting, Guy Rosman, Brandon Araki, Sertac Karaman, Daniela Rus]
+    conference: International Conference on Intelligent Robots and Systems (IROS)
+    presentation: Spotlight Presentation and Poster
+    category: 2
+    type: C
+    links:
+      pdf: https://dspace.mit.edu/bitstream/handle/1721.1/118139/IROS_2018__Variational_Autoencoder_for_End_to_End_Control_of_Autonomous_Driving_with_Novelty_Detection_and_Training_De_biasing%20%281%29.pdf?sequence=4&isAllowed=y
+      conference: https://www.iros2018.org/
+
+  - title: "Safe local navigation for visually impaired users with a time-of-flight and haptic feedback device"
+    date: January 2018
+    authors: [Robert K Katzschmann, Brandon Araki, Daniela Rus]
+    conference: IEEE Transactions on Neural Systems and Rehabilitation Engineering
+    presentation: Journal
+    category: 4
+    type: J
+    links:
+      pdf: publications/tnsre18.pdf
+      journal: https://www.embs.org/tnsre/
+
+  - title: "Foresight: Remote sensing for autonomous vehicles using a small unmanned aerial vehicle"
+    date: September 2017
+    authors: [Alex Wallar, Brandon Araki, Raphael Chang, Javier Alonso-Mora, Daniela Rus]
+    conference: Field and Service Robotics (FSR)
+    presentation: Spotlight Presentation and Poster
+    category: 1
+    type: C
+    links:
+      pdf: publications/fsr17.pdf
+      conference: https://www.fsr.ethz.ch/
+
+  - title: "Functional co-optimization of articulated robots"
+    date: May 2017
+    authors: [Andrew Spielberg, Brandon Araki, Cynthia Sung, Russ Tedrake, Daniela Rus]
+    conference: International Conference on Robotics and Automation (ICRA)
+    presentation: Spotlight Presentation and Poster
+    category: 3
+    type: C
+    links:
+      pdf: https://arxiv.org/pdf/1707.06617
+      conference: https://ras.papercept.net/conferences/conferences/ICRA17/program/
+
+  - title: "Multi-robot path planning for a swarm of robots that can both fly and drive"
+    date: May 2017
+    authors: [Brandon Araki, John Strang, Sarah Pohorecky, Celine Qiu, Tobias Naegeli, Daniela Rus]
+    conference: International Conference on Robotics and Automation (ICRA)
+    presentation: Spotlight Presentation and Poster
+    category: 1
+    type: C
+    links:
+      pdf: http://groups.csail.mit.edu/drl/wiki/images/b/bc/Flyingdrones.pdf
+      conference: https://ras.papercept.net/conferences/conferences/ICRA17/program/
+      video: https://www.youtube.com/watch?v=s-oFD5X-QtQ&ab_channel=MITCSAIL
+      news: https://news.mit.edu/2017/drones-drive-flying-cars-0626
+  
+  - title: "Enabling independent navigation for visually impaired people through a wearable vision-based feedback system"
+    date: May 2017
+    authors: [Hsueh-Cheng Wang, Robert K Katzschmann, Santani Teng, Brandon Araki, Laura Giarré, Daniela Rus]
+    conference: International Conference on Robotics and Automation (ICRA)
+    presentation: Spotlight Presentation and Poster
+    category: 4
+    type: C
+    links:
+      pdf: https://groups.csail.mit.edu/drl/wiki/images/archive/f/fb/20170601004131%21Wearnavi-vision-icra2017.pdf
+      conference: https://ras.papercept.net/conferences/conferences/ICRA17/program/
+      video: https://www.youtube.com/watch?v=R6Pjbk9w2Jk
+
+  - title: "Design and control of miniature air-and-ground vehicles"
+    date: June 2017
+    authors: [Brandon Araki]
+    conference: Massachusetts Institute of Technology
+    presentation: Master's Thesis
+    category: 3
+    type: T
+    links:
+      pdf: https://dspace.mit.edu/bitstream/handle/1721.1/111775/1004865447-MIT.pdf?sequence=1&isAllowed=y
+
+  - title: "A modular folded laminate robot capable of multi modal locomotion"
+    date: October 2016
+    authors: [Je-sung Koh, Daniel M Aukes, Brandon Araki, Sarah Pohorecky, Yash Mulgaonkar, Michael T Tolley, Vijay Kumar, Daniela Rus, Robert J Wood]
+    conference: International Symposium on Experimental Robotics (ISER)
+    presentation: Spotlight Presentation and Poster
+    category: 3
+    type: C
+    links:
+      pdf: publications/iser16.pdf
+      conference: http://iser2016.org/
+  
+  - title: "The flying monkey: A mesoscale robot that can run, fly, and grasp"
+    date: May 2016
+    authors: [Yash Mulgaonkar, Brandon Araki, Je-sung Koh, Luis Guerrero-Bonilla, Daniel M Aukes, Anurag Makineni, Michael T Tolley, Daniela Rus, Robert J Wood, Vijay Kumar]
+    conference: International Conference on Robotics and Automation (ICRA)
+    presentation: Spotlight Presentation and Poster
+    category: 3
+    type: C
+    links:
+      pdf: https://dspace.mit.edu/bitstream/handle/1721.1/103070/ICRA16_Araki_Flying_Monkey.pdf?sequence=1&isAllowed=y
+      conference: https://www.icra2016.org/
+      video: https://www.youtube.com/watch?v=m9Aa8BevJwg
+      news: https://www.csail.mit.edu/news/flying-monkey-robot-walks-grasps-and-flies
+
+  - title: Injected 3D electrical traces in additive manufactured parts with low melting temperature metals
+    date: May 2015
+    authors: [John P Swensen, Lael U Odhner, Brandon Araki, Aaron M Dollar]
+    conference: International Conference on Robotics and Automation (ICRA)
+    presentation: Spotlight Presentation and Poster
+    category: 5
+    type: C
+    links:
+      pdf: https://www.eng.yale.edu/grablab/pubs/Swensen_ICRA2015.pdf
+      conference: https://www.ieee-ras.org/icra-2015
+
+  - title: "Printing three-dimensional electrical traces in additive manufactured parts for injection of low melting temperature metals"
+    date: May 2015
+    authors: [John P Swensen, Lael U Odhner, Brandon Araki, Aaron M Dollar]
+    conference: Journal of Mechanisms and Robotics
+    presentation: Journal
+    type: J
+    category: 5
+    links:
+      pdf: https://pdfs.semanticscholar.org/a76e/749fd628c21773263a3f29e9cc3a7c6627fd.pdf
+      journal: https://asmedigitalcollection.asme.org/mechanismsrobotics
+
+  - title: "Simple passive valves for addressable pneumatic actuation"
+    date: May 2014
+    authors: [Nils Napp, Brandon Araki, Michael T Tolley, Radhika Nagpal, Robert J Wood]
+    conference: International Conference on Robotics and Automation (ICRA)
+    presentation: Spotlight Presentation and Poster
+    category: 5
+    type: C
+    links:
+      pdf: publications/icra14.pdf
+      conference: https://www.ieee-ras.org/component/rseventspro/event/18-icra-2014-ieee-international-conference-on-robotics-and-automation
