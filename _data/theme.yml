@@ -1,7 +1,7 @@
 navigation:
 
-  # - title: About
-  #   url: /about/
+  - title: About
+    url: /
 
   # - title: Blog
   #   url: /blog/
