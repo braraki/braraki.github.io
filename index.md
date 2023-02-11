@@ -5,7 +5,7 @@
 layout: default
 ---
 
-![Profile](/assets/brandon-profile-cropped.jpg#profile)
+![Profile](/assets/brandon-profile-cropped.jpg#profile =250x250)
 
 # About
 
