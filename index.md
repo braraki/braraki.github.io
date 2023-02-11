@@ -13,7 +13,7 @@ I am a research scientist at the [Toyota Research Institute (TRI)](https://www.t
 
 # Research Interests
 
-At TRI, I am working on developing a reinforcement learning algorithm to learn a controller to autonomously drift a high-performance drift car known as Keisuke. The car is a '20 GR Supra with drift modifications by Greddy. I've loved working on the car, which [has actually been turned into a Hot Wheels model](https://www.youtube.com/watch?v=otO4i_9f3jk). I am also working on a dynamics emulation controller for our overactuated vehicle platform, so that we can use it to mimic the dynamics of other vehicles and driving conditions.
+At TRI, I am working on developing a reinforcement learning algorithm to learn a controller to autonomously drift a high-performance drift car known as Keisuke. The car is a '20 GR Supra with drift modifications by Greddy. It has been a huge privilege to work on the car, which [has actually been turned into a Hot Wheels model](https://www.youtube.com/watch?v=otO4i_9f3jk). I am also working on a dynamics emulation controller for our overactuated vehicle platform, so that we can use it to mimic the dynamics of other vehicles and driving conditions.
 
 My Ph.D. work was at the intersection of three fields -- formal logic, Bayesian inference, and reinforcement learning. The focus of my research was to develop algorithms for learning and planning using formal logic. In my research, I used formal logic to model tasks and rules. By incorporating models of rules into planning, it is possible to both learn the structure of the rules using Bayesian inference and to efficiently learn policies that satisfy the rules using reinforcement learning.
 
